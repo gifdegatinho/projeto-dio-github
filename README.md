@@ -1,4 +1,9 @@
-# projeto-dio-github
-Criando meu primeiro repositório 
+# desafio-dio-github
 
-Desafio da DIO de criar um repositório que sirva como auxiliador nos estudos de programação front-end utilizando Git e Github
+Primeiro desafio de projeto com git pela DIO. Repositório de anotações das aulas e conteúdos aprendidos :) 
+
+## Links úteis
+
+[Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax)
+
+[Basic Git Command](https://www.codeproject.com/Articles/457305/Basic-Git-Command-Line-Reference-for-Windows-Users)
