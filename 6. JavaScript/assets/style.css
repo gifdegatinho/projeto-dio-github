@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Girassol&display=swap');
+
+body {
+    background-color: rgb(145, 205, 245);
+    color: rgb(238, 69, 140);
+    font-family: 'girassol', 'cursive';
+}
+
+.titulo{
+    justify-content: center;
+}

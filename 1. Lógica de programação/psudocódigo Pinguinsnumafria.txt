@@ -1,0 +1,23 @@
+INICIO DO JOGO
+pinguim azul filhote entra
+pinguim azul adulto entra
+gelo move
+pinguim azul adulto sai
+gelo move
+pinguim verde filhote entra
+gelo move
+pinguim azul filhote sai
+gelo move
+pinguim verde adulto entra 
+gelo move
+pinguim verde adulto sai
+gelo move
+pinguim vermelho filhote entra 
+gelo move
+pinguim verde filhote sai
+gelo move
+pinguim vermelho adulto entra
+gelo move
+pinguim vermelho adulto sai
+pinguim vermelho filhote sai
+FIM DO JOGO
