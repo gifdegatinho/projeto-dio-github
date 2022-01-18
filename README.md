@@ -1,6 +1,6 @@
 # desafio-dio-github
 
-Primeiro desafio de projeto com git pela DIO. Repositório de anotações das aulas e conteúdos aprendidos :) 
+Repositório de anotações das aulas e conteúdos aprendidos :) 
 
 ## Links úteis
 
